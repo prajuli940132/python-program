@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#!/usr/bin/python
 from pynput.keyboard import Key,Listener
 count=0
 keys=[]
